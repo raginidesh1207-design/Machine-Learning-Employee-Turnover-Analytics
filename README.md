@@ -39,4 +39,4 @@ Classification Report, ROC-AUC Score, and Confusion Matrix.
 
 ## Conclusion
 This project demonstrates an end-to-end machine learning pipeline for predicting employee attrition and 
-provides actionable insights to help organizations improve employee retention.
+appropriate retentition strategy were suggested.
